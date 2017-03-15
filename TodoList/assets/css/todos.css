@@ -16,10 +16,6 @@ h1{
 	font-weight: normal;
 }
 
-.fa-pencil-square-o{
-	float: right;
-}
-
 span{
 	
 	background: #e74c3c;
@@ -81,4 +77,8 @@ input:focus{
 .completed {
 	color:gray;
 	text-decoration: line-through;
+}
+
+.fa-pencil-square-o{
+	float: right;
 }
