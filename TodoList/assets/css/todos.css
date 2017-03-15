@@ -16,6 +16,10 @@ h1{
 	font-weight: normal;
 }
 
+.fa-pencil-square-o{
+	float: right;
+}
+
 ul{
 	list-style: none;
 	margin: 0;
